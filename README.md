@@ -1,6 +1,6 @@
 # Motivation of the Project
 
-This crawler crawls hotel prices, weblinks, and ratings at Seattle from Expedia. 
+This crawler crawls hotel prices, weblinks, and ratings at Seattle from Expedia. We hope the crawl can help users in decision making of the booking.
 
 
 
