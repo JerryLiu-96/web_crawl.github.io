@@ -16,7 +16,7 @@ This crawler crawls hotel prices, weblinks, and ratings at Seattle from Expedia.
 |  hotel_url   |              The weblink of the hotel homepage.              |
 | hotel_score  |               The score of the hotel received.               |
 
-
+We search the hotel checking in on February 13, 2022 and checking out on February 14, 2022. The selection results are filtered by adults 2 and we input "Seattle, Washington" in the location. 
 
 
 
